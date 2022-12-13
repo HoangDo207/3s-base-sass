@@ -13,18 +13,22 @@
 //import file from layout
 @import "layout/footer";
 @import "layout/header";
+@import "layout/banner";
 @import "layout/sidebar";
-
-//import file from element
-@import "element/tour";
+@import "layout/sections";
+@import "layout/comment";
 
 //import file from components
 @import "components/box";
+@import "components/button";
 @import "components/card";
 @import "components/nav";
 @import "components/form";
 @import "components/table";
 @import "components/badge";
+@import "components/breadcrumb";
+@import "components/pagination";
+@import "components/modal";
 
 //import file from pages
 @import "pages/home";
